@@ -123,13 +123,10 @@ main{
 }
 .qualification-des{
     display: flex;
+    gap: 50px;
 }
 .educationsub-des{
     color: #757575;
-    
-}
-.education{
-    padding:30px
     
 }
 .my-qualification{
