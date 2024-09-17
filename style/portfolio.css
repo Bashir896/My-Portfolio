@@ -132,3 +132,12 @@ main{
 .my-qualification{
     margin-top: 150px;
 }
+#download-button{
+    margin-top: 40px;
+}
+.qualification-des hr{
+    margin: 30px;
+}
+.buttton-download-cv{
+    text-align: center;
+}
