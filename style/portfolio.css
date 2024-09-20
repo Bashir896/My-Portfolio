@@ -141,3 +141,23 @@ main{
 .buttton-download-cv{
     text-align: center;
 }
+footer{
+    display: flex;
+    gap: 100px;
+    background-color: #FFF8F3;
+    padding: 130px 200px;
+    margin-top: 100px;
+}
+.footer-form input[type="text"],input[type="email"],textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: #757575;
+    border: none;
+    background-color: #fff;
+    border-radius: 5px;
+    width: 100%;
+}
+.footer-container{
+    width: 50%;
+}
